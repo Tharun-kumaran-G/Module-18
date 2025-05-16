@@ -64,4 +64,4 @@ print("Total number of Triangle in Graph :", triangleInGraph(graph))
 
 ## RESULT
 
-Thus, the python program to find the shortest possible route that visits every city exactly once and returns to the starting point using the **Travelling Salesman Problem (TSP)** approach has been executed and verified successfully.
+Thus, the python program to count the number of triangles present in an undirected graph using matrix operations has been executed and verified successfully.
