@@ -59,7 +59,7 @@ print("Minimum Cost:", cost)
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/09edbb33-1032-4b16-97e1-421ad8215cb8)
+![image](https://github.com/user-attachments/assets/7c5fb838-9104-4d86-a879-ffaf33737ac1)
 
 ##RESULT
 
